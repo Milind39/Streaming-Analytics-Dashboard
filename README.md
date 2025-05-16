@@ -49,6 +49,8 @@ A comprehensive analytics dashboard comparing content across Netflix, Amazon Pri
 
 ![Dashboard Demo](assets/analysis.png)
 
+# Youe file structure Should look like this
+![image](https://github.com/user-attachments/assets/8d10ed92-5482-4e2f-846a-0511f46c2819)
 
 ## 🤝 Contributing
 
